@@ -1,0 +1,10 @@
+tensorflow==2.16.1 
+tensorflow_hub 
+tensorflow_text==2.16.1 
+pandas 
+openpyxl
+openai
+spacy 
+nltk
+scikit-learn
+language_tool_python
